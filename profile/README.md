@@ -4,7 +4,9 @@ Meet your next media librarian, p!MOLA!
 
 p!MOLA stands for _parallelized Media Organizer, Library manager, Archiver_.
 
-Project will be mainly written in **javascript**, i will use `nodejs` but will also try to add `bun` overloads where it's useful (for example, writing files, idk)
+This project will be mainly written in **javascript**, i will use `nodejs` but will also try to add `bun` overloads where it's useful (for example, writing files, idk)
+
+This project will also **heavily** depend on existing `yt-dlp` and `youtube-dl` projects in many cases where it's not implemented or my implementation gave an error.
 
 ## Features
 
