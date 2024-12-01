@@ -20,6 +20,9 @@ My personal wishlist:
   - [ ] Organize playlists and medias in library metadata files, working in a similar manner to `package-lock.json` but in YAML
   - [ ] Use disk cache AND `tmpfs` storage for operations where it makes sense. (Haven't figured out any temporary file system solutions for Windows yet.)
   - [ ] Use `youtube-dl` (also allowing drop-in replacements like `yt-dlp`) to get content
+  - [ ] CD _reading_ support (I mean optical media but CD is shorter)
+    - [ ] Skip reading the media you already have... unless your CD has a higher bitrate (or you manually override the setting)
+    - [ ] Label the media while reading job takes place
 
 - [ ] Library Management:
   
